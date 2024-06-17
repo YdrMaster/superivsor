@@ -1,0 +1,5 @@
+﻿_addr = "localhost:55555"
+
+[[proc]]
+executable = "cmd"
+args = ["/C", "echo", "123"]
